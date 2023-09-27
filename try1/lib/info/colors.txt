@@ -1,0 +1,5 @@
+#FD5901 --> cinza claro--> 242, 242, 242, 1
+#F78104 --> laranja --> rgb 242, 159, 5, 1
+#FAAB36 --> azul médio --> rgb 4, 118, 215, 1
+#249EA0 --> azul escuro --> rgb 1, 28, 54, 1
+#008083 --> azul --> rgb 3, 62, 140, 1
